@@ -1,7 +1,0 @@
-{
-  "name": "exodus-website",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
